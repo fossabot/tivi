@@ -1,4 +1,5 @@
 ![Tivi](https://raw.githubusercontent.com/chrisbanes/tivi/master/art/banner.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fqwertyfinger%2Ftivi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fqwertyfinger%2Ftivi?ref=badge_shield)
 
 # Tivi 📺 (work-in-progress 👷🔧️👷‍♀️⛏)
 
@@ -83,3 +84,6 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fqwertyfinger%2Ftivi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fqwertyfinger%2Ftivi?ref=badge_large)
